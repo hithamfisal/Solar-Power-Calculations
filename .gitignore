@@ -4,6 +4,8 @@ dist/
 build/
 output/
 release/
+New folder/
+design/
 .vite-qa.log
 
 # Android build and cache files
