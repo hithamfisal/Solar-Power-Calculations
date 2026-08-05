@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Albahith Solar Calculator</string>
+    <string name="title_activity_main">Albahith Solar Calculator</string>
+    <string name="package_name">com.albahith.solarcalculator</string>
+    <string name="custom_url_scheme">com.albahith.solarcalculator</string>
+</resources>

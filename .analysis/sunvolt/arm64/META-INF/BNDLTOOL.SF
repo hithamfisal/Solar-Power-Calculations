@@ -1,0 +1,23 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: NdIcZxjkZEla5E8RW/HMEe6jiQM=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: asY4dXZ6riUmFTxjRAFCUtxpwX4=
+
+Name: lib/arm64-v8a/libapp.so
+SHA1-Digest: wDBGYnVKIaiuvOuHTO01pnRIL74=
+
+Name: lib/arm64-v8a/libdatastore_shared_counter.so
+SHA1-Digest: nqVbmaQazr2Cltw00w1E+IigwZU=
+
+Name: lib/arm64-v8a/libflutter.so
+SHA1-Digest: G0prIbLeAxHFTT8cFr70TQNb2Ck=
+
+Name: lib/arm64-v8a/libmlkit_google_ocr_pipeline.so
+SHA1-Digest: M2jCLSR2ezeSZm/LF73BWGSLgaQ=
+
+Name: stamp-cert-sha256
+SHA1-Digest: Bs40BvDZ1xrbgQrPTD2x5w/NfHQ=
+

@@ -1,0 +1,20 @@
+# Dependencies & Build outputs
+node_modules/
+dist/
+build/
+output/
+release/
+.vite-qa.log
+
+# Android build and cache files
+android/.gradle/
+android/app/build/
+android/.gradle-user-home/
+android/captures/
+.gradle/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
